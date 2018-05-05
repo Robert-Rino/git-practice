@@ -1,5 +1,7 @@
 update new feature
 update new feature 2
 merge before rebase
+feature2
+continue
 ---
 new merge before feature3
