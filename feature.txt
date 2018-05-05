@@ -6,3 +6,6 @@ continue
 ---
 new merge before feature3
 feature3
+--
+feature3
+feature3 conti
