@@ -1,3 +1,5 @@
 update new feature
 update new feature 2
 merge before rebase
+---
+new merge before feature3
