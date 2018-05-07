@@ -15,3 +15,5 @@ commit before feature4
 feature4
 ---
 commit before feature5
+---
+feature5
