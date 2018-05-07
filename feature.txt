@@ -9,3 +9,5 @@ feature3
 --
 feature3
 feature3 conti
+----
+commit before feature4
